@@ -26,7 +26,7 @@ public class Aula {
             else {
                 System.out.printf("Consumo ok\n");
             }
-
         }
+        System.out.printf("Qtde: %d",qtde);
     }
 }
